@@ -1,3 +1,8 @@
+# Chrome extension, integrate with nextjs and nextui
+- do not use server side js
+- use `npm run build` to generate static source file in "out" directory
+- use `npm run dev` to check and develop UI functions (can not test the full function in this mode, because it is not in the chrome extension mode.)
+
 # Next.js & NextUI Template
 
 This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
@@ -38,3 +43,4 @@ npm run dev
 ## License
 
 Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+
